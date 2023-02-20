@@ -1,10 +1,1 @@
-'[
-  {
-    "name": "model1",
-    "description": "description_of_model_1"
-  },
-  {
-    "name": "microsoft/biogpt",
-    "description": "description_of_model_1"
-  }
-]'
+[{"name": "BioGPT","description": "hello"},{"name": "BioGPT-Large","description":"world"},{"name": "BioGPT-Large-PubMedQA","description": "foo"},{"name":"GPTJT6B","description":""},{"name":"GPT-J-6B","description":},{"name":"BLOOM","description":""},{"name":"GPT-NEO","description":""}]
